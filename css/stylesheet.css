@@ -1,0 +1,94 @@
+body {
+	background-color: lightblue;
+}
+
+.centerdiv {
+	text-align: center;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+	border-right: 1px solid;
+}
+
+h1 {
+	text-align: center;
+	color: midnightblue;
+	font-size:64px;
+	font-family: "Times New Roman", Times, serif;
+	margin-left: 12px;
+	margin-right: 7px;
+	margin-top: 6px;
+	margin-bottom: 5px;
+}
+
+h2 {
+	text-align: center;
+	color: navy;
+	font-size: 32px;
+	font-family: "Times New Roman", Times, serif;
+	margin-left: 12px;
+	margin-right: 7px;
+	margin-top: 6px;
+	margin-bottom: 5px;
+}
+
+img.rounded {
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+	width: auto;
+}
+
+p {
+	color: black;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 25px;
+	margin-right: 15px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+}
+
+#box {
+	background: #FFFFFF;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	margin: 3em 10em 3em;
+}
+
+#box2 {
+	text-align: center;
+	background: #FFFFFF;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	margin: 3em 30em 3em;
+}
+
+#spacing {
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+label {
+	display: inline-block;
+	width: 90px;
+	line-height: 25px;
+}
+
+input {
+	margin: 0;
+	border: 1px solid #666666;
+	border-radius: 3px;
+}
+
+button {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
