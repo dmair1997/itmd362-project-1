@@ -74,7 +74,7 @@
 	}
 }
 
-@media (min-width: 1080px) {
+@media (min-width: 960px) {
 	body {
 		background-image: url("owbackground.jpg");
 	}
